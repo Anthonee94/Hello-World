@@ -1,4 +1,4 @@
 # Hello-World
 Hopefully this works now
 
-I enjoy long walks on the beach. Who doesn't though?
+What am I supposed to do in the GitHub Application if it doesn't have these options??
